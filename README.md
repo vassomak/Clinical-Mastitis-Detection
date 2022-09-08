@@ -1,6 +1,8 @@
 # Smart Farming Assisted by the Internet of Things for Animals’ Welfare
 
-## Clinical mastitis detection based on on Udder Parameter using Internet of Things
+## Clinical mastitis detection based on Udder Measurements
+Machine Learning models that predict whether or not a cow suffers from clinical mastitis.
+
 
 Thesis report can be found [here](https://ikee.lib.auth.gr/record/338189/files/makrylaki.pdf). The part related to clinical mastitis is in chapter 5.
 
