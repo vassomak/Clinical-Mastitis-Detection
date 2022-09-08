@@ -4,7 +4,7 @@
 Machine Learning models that predict whether or not a cow suffers from clinical mastitis.
 
 
-Thesis report can be found [here](https://ikee.lib.auth.gr/record/338189/files/makrylaki.pdf). The part related to clinical mastitis is in chapter 5.
+Thesis report can be found [here](https://ikee.lib.auth.gr/record/338189/files/makrylaki.pdf). The part related to clinical mastitis is in chapter 5 (in English).
 
 The data used for the project are derived from [here](https://data.mendeley.com/datasets/kbvcdw5b4m/1).
 
